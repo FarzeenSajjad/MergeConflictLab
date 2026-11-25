@@ -1,1 +1,1 @@
-Welcome to Web Engineering Lab.
+Welcome to Web Engineering and GitHub Collaboration Lab.
