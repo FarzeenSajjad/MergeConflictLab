@@ -1,1 +1,1 @@
-Welcome to the lab.
+Welcome to GitHub Collaboration Lab.
